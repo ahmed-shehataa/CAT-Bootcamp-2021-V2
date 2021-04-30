@@ -15,7 +15,7 @@ From **2** to **3** weeks (**2-3** per week).
 
 ### Content:
 1. Android Studio IDE (project files).
-2. XML basics & interact with them in java code (TextView - ImageView - Button - Constarint and linear layout).
+2. XML basics & interact with them in java code (TextView - ImageView - Button - Constraint and linear layout).
 3. Multi Screen Application & Intent types.
 4. Activity lifecycle.
 5. List & RecyclerView.
@@ -23,7 +23,7 @@ From **2** to **3** weeks (**2-3** per week).
 7. Retrofit basics.
 
 ### How to start?
-I'll provide you with some Youtube viedos made by me then we 'll practice this in offline lap. 
+I'll provide you with some Youtube viedos made by me then we 'll practice this in an offline lap. 
 
 ### Let's Do it:
 - For 1 & 2 & 3 & 4 -> [Click here](https://youtube.com/playlist?list=PL_99ATWogCcq0BNZD1R8VKU86FCvxKGHi)     
