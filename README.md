@@ -8,7 +8,7 @@
 </p> 
 
 ### :speaking_head: For who (Target audience) ?
-At least you must know **java**.
+At least you must know **java** and XML basics. 
 
 ### :watch: Expected period :
 From **2** to **3** weeks (**2-3** per week).
