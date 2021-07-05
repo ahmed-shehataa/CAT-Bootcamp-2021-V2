@@ -27,8 +27,9 @@ I'll provide you with some Youtube viedos made by me then we 'll practice this i
 
 ### :thinking: Final Application (Guess what):
 
-### :runner: Let's Do it :
+<!--### :runner: Let's Do it :
 - For 1 & 2 & 3 & 4 -> [Click here](https://youtube.com/playlist?list=PL_99ATWogCcq0BNZD1R8VKU86FCvxKGHi)     
 - For 5 -> [Click here](https://www.youtube.com/playlist?list=PL_99ATWogCcrsuH7GilsRJkD6dieQE9vK)     
 - For 6 -> [Click here]()    
 - For 7 -> [Click here]()
+--!>
