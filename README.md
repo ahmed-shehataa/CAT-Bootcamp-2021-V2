@@ -23,7 +23,7 @@ From **2** to **3** weeks (**2-3** per week).
 7. Retrofit basics.
 
 ###  :dash: How to start ?
-~~I'll provide you with some Youtube viedos made by me then we 'll practice this in an offline lap~~
+~~I'll provide you with some Youtube viedos made by me then we 'll practice this in an offline lap~~.    
 You' ll need to watch from 2 to 3 sessions per week. (online) 
 
 ### :thinking: Final Application (Guess what):
